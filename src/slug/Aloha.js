@@ -23,10 +23,7 @@ const Aloha = () => (
             laravel php artisan.
           </h3>
           <p>
-            Mudahkan segala urursan dengan laravel apps sebuah technology modern
-            website applikasi untuk kebutuhan pembukuan dan mempercepat
-            transaksi include website untuk media promo online bagi bisnis dan
-            usaha mu.
+            MODIFICADO POR JUANGUICASS
           </p>
           <p>Pelajari dan download e-catalaog dibawah ini</p>
           <a
