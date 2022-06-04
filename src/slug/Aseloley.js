@@ -9,9 +9,8 @@ const Aseloley = () => (
         </h3>
         <p>Include modern website domain dan cloud host.</p>
         <p>
-          Bukan sekedar applikasi kasir penjualan online tetapi include dengan
-          website plus nama domain usaha dan cloud hosting sebagai symbol dan
-          icon bisnis di dunia online sekaligus media promo marketing digital.
+          No se que es esto pero igual lo modifique  
+          
         </p>
         <Link to="/website" className="btn btn-light">
           More Info
